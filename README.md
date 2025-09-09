@@ -1,6 +1,6 @@
 # 🥊 UFC Fight Outcome Analysis
 
-## 📌 Overview
+##  Overview
 I’m a UFC fan, so I decided to use that interest with data analysis and made this project.  
 I took scraped UFC stats, cleaned and merged the datasets, and explored how different fighter stats (age, stance, reach, etc.) relate to fight outcomes.
 
