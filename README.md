@@ -41,5 +41,5 @@ The notebook includes:
 ---
 
 ## 📈 Example Charts
-![Avg Height by Weight Class](fighters.png)  
 ![Win % by Stance](fighters1.png)  
+![Avg Height by Weight Class](fighters.png)  
