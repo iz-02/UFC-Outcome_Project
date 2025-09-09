@@ -37,5 +37,5 @@ I took scraped UFC stats, cleaned and merged the datasets, and explored how diff
 ---
 
 ## 📈 Example Charts
-![Avg Height by Weight Class](images/avg_height.png)  
-![Win % by Age Group](images/win_by_age.png)  
+![Avg Height by Weight Class](fighters.png)  
+![Win % by Stance](fighters1.png)  
