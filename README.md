@@ -4,6 +4,14 @@
 I’m a UFC fan, so I decided to use that interest with data analysis and made this project.  
 I took scraped UFC stats, cleaned and merged the datasets, and explored how different fighter stats (age, stance, reach, etc.) relate to fight outcomes.
 
+## 📓 Notebook
+Full analysis here: [ufc_analysis.ipynb](analysis.ipynb)  
+
+The notebook includes:  
+- Data cleaning & merging steps  
+- Exploratory analysis  
+- Visualizations answering the key questions  
+
 
 ## 📂 Data
 - **Source:** [UFC Stats Scraper](https://github.com/Greco1899/scrape_ufc_stats)  
