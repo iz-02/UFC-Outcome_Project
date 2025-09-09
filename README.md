@@ -21,7 +21,7 @@ The notebook includes:
 
 
 ## ⚙️ Process
-- Cleaned data (split bout names, converted DOB → age, standardized height/reach,etc).  
+- Cleaned data (split bout names, converted DOB -> age, standardized height/reach,etc).  
 - Merged fighter stats into fight records (`F1_*` and `F2_*` columns).  
 - Used **pandas** and visualizations to answer key questions.  
 
