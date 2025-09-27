@@ -5,10 +5,10 @@ I’m a UFC fan, so I decided to use that interest with data analysis and made t
 I took scraped UFC stats, cleaned and merged the datasets, and explored how different fighter stats (age, stance, reach, etc.) relate to fight outcomes.
 
 ## 📓 Notebook
-Full analysis here: [ufc_analysis.ipynb](analysis.ipynb)  
+Full notebook with analysis: [ufc_analysis.ipynb](analysis.ipynb)  
 
-The notebook includes:  
-- Data cleaning & merging steps  
+ Includes:  
+- Data cleaning & merging 
 - Exploratory analysis  
 - Visualizations answering the key questions  
 
@@ -26,11 +26,10 @@ The notebook includes:
 - Used **pandas** and visualizations to answer key questions.  
 
 
-## 📊 Key Insights
-- **Height/Reach:** LHW and HW fighters are unsurprisingly tallest on average, with the longest reach.  
+## 📊 Key Findings 
+- **Stance:** No significant difference in win rates between Southpaw and Orthodox. 
 - **Age:** Small positive correlation between age and win rate, but small effect.  
-- **Finishes:** Heavier divisions (MW, LHW, HW) end more often by KO/TKO, lighter ones by unanimous decision.  
-- **Stance:** No real difference in win rates between Southpaw and Orthodox.  
+- **Finishes:** Heavier divisions (MW, LHW, HW) end more often by KO/TKO, lighter ones by unanimous decision.   
 - **Young Fighters:** Ages 20–24 show the highest win % (though sample size is limited).  
 
 
